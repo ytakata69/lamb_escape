@@ -1,0 +1,30 @@
+<project name="Solver" default="main">
+
+  <property name="src"     value="src" />
+  <property name="build"   value="src" />
+  <property name="jarfile" value="Solver.jar" />
+  <property name="mainclass" value="lamb_escape.Solver" />
+
+  <target name="main" depends="jar,clean" />
+
+  <target name="compile">
+    <javac srcdir="${src}"
+           destdir="${build}"
+           includeAntRuntime="false"
+     />
+  </target>
+
+  <target name="jar" depends="compile">
+    <jar destfile="${jarfile}" basedir="${build}">
+      <manifest>
+        <attribute name="Main-Class" value="${mainclass}" />
+      </manifest>
+    </jar>
+  </target>
+
+  <target name="clean">
+    <delete>
+      <fileset dir="${build}" includes="**/*.class" />
+    </delete>
+  </target>
+</project>
