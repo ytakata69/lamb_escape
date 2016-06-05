@@ -1,5 +1,9 @@
 # Lamb Escape
-An implementation of a classic sliding puzzle.
+
+<a href="https://www.youtube.com/watch?v=Rgd3DDGuoPk"><img
+   src="http://img.youtube.com/vi/Rgd3DDGuoPk/mqdefault.jpg" width="280" alt="Demo movie of this program"></a>
+
+A program for playing a classic sliding puzzle, implemented in [Processing](https://www.processing.org).
 
 ## Install
 Open lamb_escape.pde on the Processing Development Environment; then run it.
@@ -10,18 +14,20 @@ To use "Auto" mode (an automatic puzzle solver), run the Apache Ant in the "code
 
 ## Credits
 
-* ["Spring Lamb"](http://foter.com/photo/spring-lamb/) by
-EssjayNZ / Foter /
-[CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/2.0/)
-* ["The Wild Side of Yellowstone"](http://foter.com/photo/the-wild-side-of-yellowstone-3/) by
-Stuck in Customs / Foter /
-[CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/2.0/)
-* ["Free Vector Jungle Background"](http://www.vectorjungle.com/2010/09/free-vector-jungle-background/) by
-[VectorJungle.com](http://www.vectorjungle.com)
-* ["Mass Vector Trees"](http://all-silhouettes.com/vector-trees/) by
-[All-silhouettes.com](http://all-silhouettes.com)
-* ["Wood pattern"](http://subtlepatterns.com/wood-pattern/) by
-[SubtlePatterns.com](http://subtlepatterns.com)
+* https://www.processing.org
+* Images:
+  * ["Spring Lamb"](http://foter.com/photo/spring-lamb/) by
+  EssjayNZ / Foter /
+  [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/2.0/)
+  * ["The Wild Side of Yellowstone"](http://foter.com/photo/the-wild-side-of-yellowstone-3/) by
+  Stuck in Customs / Foter /
+  [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/2.0/)
+  * ["Free Vector Jungle Background"](http://www.vectorjungle.com/2010/09/free-vector-jungle-background/) by
+  [VectorJungle.com](http://www.vectorjungle.com)
+  * ["Mass Vector Trees"](http://all-silhouettes.com/vector-trees/) by
+  [All-silhouettes.com](http://all-silhouettes.com)
+  * ["Wood pattern"](http://subtlepatterns.com/wood-pattern/) by
+  [SubtlePatterns.com](http://subtlepatterns.com)
 * Sound of chimes:
 "Crrect_answer3.mp3" by
 [Free Sound Effects](http://taira-komori.jpn.org/freesound.html)
