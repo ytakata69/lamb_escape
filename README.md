@@ -1,7 +1,7 @@
 # Lamb Escape
 
 <a href="https://www.youtube.com/watch?v=Rgd3DDGuoPk"><img
-   src="http://img.youtube.com/vi/Rgd3DDGuoPk/mqdefault.jpg" width="320" alt="Demo movie of this program"></a>
+   src="https://raw.github.com/wiki/ytakata69/wolf_n_lamb/escape.jpg" width="320" alt="Demo movie of this program"></a>
 
 A program for playing a classic sliding puzzle, implemented in [Processing](https://www.processing.org).
 
